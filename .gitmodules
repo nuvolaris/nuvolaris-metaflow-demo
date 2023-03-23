@@ -1,0 +1,6 @@
+[submodule "nuvolaris-metaflow"]
+	path = nuvolaris-metaflow
+	url = https://github.com/nuvolaris/nuvolaris-metaflow.git
+[submodule "metaflow"]
+	path = metaflow
+	url = https://github.com/francescotimperi/metaflow.git
