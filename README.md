@@ -68,7 +68,7 @@ aws s3api create-bucket --bucket <bucket-name> --region <region-name>
 Clone the project repository
 
 ```
-git clone --recurse-submodules
+git clone https://github.com/nuvolaris/nuvolaris-metaflow-demo.git --recurse-submodules
 ```
 
 Nuvolaris Metaflow plugin it is still a prototype, therefore it is not available as python library yet. To install it
